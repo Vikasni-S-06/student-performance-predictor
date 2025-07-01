@@ -79,6 +79,10 @@ Output:
 🎯 Predicted Math Score: 85.12
 
 
+![App Screenshot](images/Student%20app%20page.png)
+
+
+
 🌐 Live Demo
 
 > 🔗 [Click here to try the live app](https://vikasni-06-student-performance-predictor.streamlit.app)
